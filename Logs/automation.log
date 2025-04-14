@@ -1,0 +1,131 @@
+04032025 073643 PM: INFO: ************* Test_001_Login************
+04032025 073643 PM: INFO: *************Verifying Login Page ************
+04032025 073644 PM: INFO: *************Homepage Title test passed ************
+04032025 073646 PM: INFO: *************Verifying Login Test ************
+04032025 073651 PM: WARNING: *************Error occurred in Login Test ************
+04032025 073651 PM: WARNING: *************Login test failed ************
+04032025 073802 PM: INFO: ************* Test_001_Login************
+04032025 073802 PM: INFO: *************Verifying Login Page ************
+04032025 073803 PM: INFO: *************Homepage Title test passed ************
+04032025 073804 PM: INFO: *************Verifying Login Test ************
+04032025 073810 PM: ERROR: *************Error occurred in Login Test ************
+04032025 073810 PM: WARNING: *************Login test failed ************
+04032025 074222 PM: INFO: ************* Test_001_Login************
+04032025 074222 PM: INFO: *************Verifying Login Page ************
+04032025 074222 PM: INFO: *************Homepage Title test passed ************
+04032025 074224 PM: INFO: *************Verifying Login Test ************
+04032025 074230 PM: ERROR: *************Error occurred in Login Test ************
+04032025 074230 PM: WARNING: *************Login test failed ************
+04032025 074628 PM: INFO: ************* Test_001_Login************
+04032025 074628 PM: INFO: *************Verifying Login Page ************
+04032025 074628 PM: INFO: *************Homepage Title test passed ************
+04032025 074630 PM: INFO: *************Verifying Login Test ************
+04032025 074636 PM: ERROR: *************Error occurred in Login Test ************
+04032025 074636 PM: WARNING: *************Login test failed ************
+04042025 055031 PM: INFO: ************* Test_001_Login************
+04042025 055031 PM: INFO: *************Verifying Login Page ************
+04042025 055031 PM: WARNING: *************Error occurred in Homepage Title Test ************
+04042025 055031 PM: WARNING: *************Homepage Title test failed ************
+04042025 055033 PM: INFO: *************Verifying Login Test ************
+04042025 055033 PM: ERROR: *************Error occurred in Login Test ************
+04042025 055033 PM: WARNING: *************Login test failed ************
+04042025 055149 PM: INFO: ************* Test_001_Login************
+04042025 055149 PM: INFO: *************Verifying Login Page ************
+04042025 055149 PM: INFO: *************Homepage Title test passed ************
+04042025 055156 PM: INFO: *************Verifying Login Test ************
+04042025 055156 PM: ERROR: *************Error occurred in Login Test ************
+04042025 055156 PM: WARNING: *************Login test failed ************
+04042025 055239 PM: INFO: ************* Test_001_Login************
+04042025 055239 PM: INFO: *************Verifying Login Page ************
+04042025 055240 PM: INFO: *************Homepage Title test passed ************
+04042025 055246 PM: INFO: *************Verifying Login Test ************
+04042025 055252 PM: INFO: *************Login test passed ************
+04042025 055400 PM: WARNING: The msedgedriver version (129.0.2792.89) detected in PATH at C:\libs\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (135.0.3179.54); currently, msedgedriver 135.0.3179.54 is recommended for MicrosoftEdge 135.*, so it is advised to delete the driver in PATH and retry
+04042025 055404 PM: WARNING: The msedgedriver version (129.0.2792.89) detected in PATH at C:\libs\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (135.0.3179.54); currently, msedgedriver 135.0.3179.54 is recommended for MicrosoftEdge 135.*, so it is advised to delete the driver in PATH and retry
+04042025 055446 PM: WARNING: The IEDriverServer version (4.14.0.0) detected in PATH at C:\libs\IEDriverServer.exe might not be compatible with the detected iexplorer version (11.0.26100.1882); currently, IEDriverServer 4.14.0 is recommended for iexplorer 11.*, so it is advised to delete the driver in PATH and retry
+04042025 055651 PM: WARNING: The IEDriverServer version (4.14.0.0) detected in PATH at C:\libs\IEDriverServer.exe might not be compatible with the detected iexplorer version (11.0.26100.1882); currently, IEDriverServer 4.14.0 is recommended for iexplorer 11.*, so it is advised to delete the driver in PATH and retry
+04042025 060111 PM: INFO: ************* Test_001_Login************
+04042025 060111 PM: INFO: *************Verifying Login Page ************
+04042025 060111 PM: INFO: *************Homepage Title test passed ************
+04042025 060112 PM: INFO: *************Verifying Login Test ************
+04042025 060117 PM: INFO: *************Login test passed ************
+04042025 062158 PM: INFO: *************Verifying Login Test ************
+04042025 062159 PM: INFO: ************* Test_001_Login************
+04042025 062159 PM: INFO: *************Verifying Login Page ************
+04042025 062159 PM: INFO: *************Homepage Title test passed ************
+04042025 062204 PM: INFO: *************Login test passed ************
+04042025 062809 PM: INFO: *************Verifying Login Test ************
+04042025 062810 PM: INFO: ************* Test_001_Login************
+04042025 062810 PM: INFO: *************Verifying Login Page ************
+04042025 062810 PM: INFO: *************Homepage Title test passed ************
+04042025 062814 PM: INFO: *************Login test passed ************
+04042025 063638 PM: INFO: *************Verifying Login Test ************
+04042025 063639 PM: INFO: ************* Test_001_Login************
+04042025 063639 PM: INFO: *************Verifying Login Page ************
+04042025 063639 PM: INFO: *************Homepage Title test passed ************
+04042025 063643 PM: INFO: *************Login test passed ************
+04072025 031053 PM: INFO: *************Test_002_Login_DDT ************
+04072025 031053 PM: INFO: *************Verifying Login Test with DDT ************
+04072025 031100 PM: ERROR: *************Error occurred in Login Test ************
+04072025 031100 PM: WARNING: *************Login test failed ************
+04072025 031201 PM: INFO: *************Test_002_Login_DDT ************
+04072025 031201 PM: INFO: *************Verifying Login Test with DDT ************
+04072025 031206 PM: INFO: *************Login test passed ************
+04072025 031206 PM: ERROR: *************Error occurred in Login Test ************
+04072025 031206 PM: WARNING: *************Login test failed ************
+04072025 031208 PM: INFO: *************Entire Login DDT test passed ************
+04072025 031208 PM: INFO: *************End of Test_002_Login************
+04072025 031551 PM: INFO: *************Test_002_Login_DDT ************
+04072025 031551 PM: INFO: *************Verifying Login Test with DDT ************
+04072025 031557 PM: ERROR: *************Error occurred in Login Test ************
+04072025 031557 PM: WARNING: *************Login test failed ************
+04072025 031559 PM: INFO: *************Entire Login DDT test passed ************
+04072025 031559 PM: INFO: *************End of Test_002_Login************
+04072025 031716 PM: INFO: *************Test_002_Login_DDT ************
+04072025 031716 PM: INFO: *************Verifying Login Test with DDT ************
+04072025 031721 PM: INFO: *************Login test passed ************
+04072025 031721 PM: ERROR: *************Error occurred in Login Test ************
+04072025 031721 PM: WARNING: *************Login test failed ************
+04072025 031723 PM: INFO: *************Entire Login DDT test passed ************
+04072025 031723 PM: INFO: *************End of Test_002_Login************
+04072025 031923 PM: INFO: *************Test_002_Login_DDT ************
+04072025 031923 PM: INFO: *************Verifying Login Test with DDT ************
+04072025 031930 PM: ERROR: *************Error occurred in Login Test ************
+04072025 031930 PM: WARNING: *************Login test failed ************
+04072025 031931 PM: INFO: *************Entire Login DDT test passed ************
+04072025 031931 PM: INFO: *************End of Test_002_Login************
+04112025 021104 PM: INFO: ************* Test_003AddCustomer************
+04112025 021104 PM: INFO: *************Verifying Add New Customer Page ************
+04112025 021105 PM: INFO: *************Login Successful************
+04112025 021105 PM: INFO: *************Starting Add New Customer************
+04112025 021112 PM: INFO: *************Verifying Login Test ************
+04112025 021117 PM: INFO: *************Login test passed ************
+04112025 021412 PM: INFO: ************* Test_003AddCustomer************
+04112025 021412 PM: INFO: *************Verifying Add New Customer Page ************
+04112025 021413 PM: INFO: *************Login Successful************
+04112025 021413 PM: INFO: *************Starting Add New Customer************
+04112025 021420 PM: INFO: ************* Test_001_Login************
+04112025 021420 PM: INFO: *************Verifying Login Page ************
+04112025 021420 PM: INFO: *************Homepage Title test passed ************
+04112025 021427 PM: INFO: *************Verifying Login Test ************
+04112025 021432 PM: INFO: *************Login test passed ************
+04112025 021440 PM: INFO: *************Test_002_Login_DDT ************
+04112025 021440 PM: INFO: *************Verifying Login Test with DDT ************
+04112025 021445 PM: INFO: *************Login test passed ************
+04112025 021445 PM: ERROR: *************Error occurred in Login Test ************
+04112025 021445 PM: WARNING: *************Login test failed ************
+04112025 021446 PM: INFO: *************Entire Login DDT test passed ************
+04112025 021446 PM: INFO: *************End of Test_002_Login************
+04112025 021452 PM: INFO: ************* Test_004SearchCustomer************
+04112025 021452 PM: INFO: *************Verifying Search Customer Page ************
+04112025 021452 PM: INFO: *************Login Successful************
+04112025 021452 PM: INFO: *************Starting Search Customer************
+04112025 021651 PM: WARNING: The chromedriver version (134.0.6998.165) detected in PATH at C:\libs\chromedriver.exe might not be compatible with the detected chrome version (135.0.7049.85); currently, chromedriver 135.0.7049.84 is recommended for chrome 135.*, so it is advised to delete the driver in PATH and retry
+04112025 021653 PM: INFO: ************* Test_003AddCustomer************
+04112025 021653 PM: INFO: *************Verifying Add New Customer Page ************
+04112025 021654 PM: INFO: *************Login Successful************
+04112025 021654 PM: INFO: *************Starting Add New Customer************
+04112025 021656 PM: WARNING: The chromedriver version (134.0.6998.165) detected in PATH at C:\libs\chromedriver.exe might not be compatible with the detected chrome version (135.0.7049.85); currently, chromedriver 135.0.7049.84 is recommended for chrome 135.*, so it is advised to delete the driver in PATH and retry
+04112025 021658 PM: INFO: *************Verifying Login Test ************
+04112025 021702 PM: ERROR: *************Error occurred in Login Test ************
+04112025 021702 PM: WARNING: *************Login test failed ************
